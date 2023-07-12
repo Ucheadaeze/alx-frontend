@@ -23,3 +23,5 @@ https://intranet.alxswe.com/rltoken/UiqZ7pmI5L7BMr3ZaG4Bow
 
 Inspect Network Activity - Chrome DevTools 101
 https://intranet.alxswe.com/rltoken/I_IHgn0hsaB1kee6RgU1SQ
+
+<img width="660" alt="Screenshot of website with sizes of  Iphone X showing the size" src="https://github.com/Ucheadaeze/alx-frontend/assets/111281385/bcc76c27-d4f1-46e0-942a-4cdac5d6ecdd">
