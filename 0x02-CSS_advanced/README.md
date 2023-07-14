@@ -1,10 +1,10 @@
-~0x02. Advanced CSS
+0x02. Advanced CSS
 
-..Resources
+Resources
 
-`Read or watch
+Read or watch
 
--Learning Objectives
+Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
