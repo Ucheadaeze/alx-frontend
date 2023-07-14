@@ -1,8 +1,11 @@
 0x02. Advanced CSS
+
 Resources
+
 Read or watch
 
 Learning Objectives
+
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 Selectors, properties, and values
